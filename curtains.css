@@ -1,0 +1,14 @@
+body .curtain-A{
+    background-image: url("http://jahnestacado.github.io/curtainjs/images/curtain-left.min.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+    overflow: hidden;
+}
+
+body .curtain-B{
+    background-image: url("http://jahnestacado.github.io/curtainjs/images/curtain-right.min.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
