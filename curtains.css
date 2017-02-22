@@ -1,4 +1,4 @@
-body .curtain-A{
+.curtain-A{
     background-image: url("http://jahnestacado.github.io/curtainjs/images/curtain-left.min.jpg");
     background-size:     cover;
     background-repeat:   no-repeat;
@@ -6,7 +6,7 @@ body .curtain-A{
     overflow: hidden;
 }
 
-body .curtain-B{
+.curtain-B{
     background-image: url("http://jahnestacado.github.io/curtainjs/images/curtain-right.min.jpg");
     background-size:     cover;
     background-repeat:   no-repeat;
